@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算三边能否构成三角形", "计算三边能否构成三角形.csproj", "{4438362A-6270-4692-8BDA-FD4E51938489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4438362A-6270-4692-8BDA-FD4E51938489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4438362A-6270-4692-8BDA-FD4E51938489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4438362A-6270-4692-8BDA-FD4E51938489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4438362A-6270-4692-8BDA-FD4E51938489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C3C7B1-3D43-4D50-AC09-72B2AF24FC8C}
+	EndGlobalSection
+EndGlobal
